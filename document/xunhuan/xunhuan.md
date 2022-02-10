@@ -17,3 +17,4 @@ for (let property in object) {
 }
 
 （4）foreach
+![这是图片](/img/1.jpg)
